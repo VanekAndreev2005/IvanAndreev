@@ -1,6 +1,3 @@
 # IvanAndreev
 IvanAndreevProject
-fgfgfgfgfg
-fgfgfgfgfggffg
-fgfgfgfgfgfg
-fgfgfgfgfgfgfgf
+ооо все получилось
